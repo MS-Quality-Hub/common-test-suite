@@ -1,0 +1,22 @@
+"qualityMetrics": 
+"accession": "MS:4000059",
+"name": "number of MS1 spectra",
+"value": 5074
+"accession": "MS:4000060",
+"name": "number of MS2 spectra",
+"value": 14812
+"accession": "MS:4000071",
+"name": "number of chromatograms",
+"value": 1
+"accession": "MS:4000069",
+"name": "m/z acquisition range",
+"value": [
+  300.157287597656,
+  1778.8639
+]
+"accession": "MS:4000070",
+"name": "retention time acquisition range",
+"value": [
+  0.2959,
+  5969.8172
+]
